@@ -15,7 +15,7 @@ A self-taught Android Developer with a passion for technology, i work at [Madein
 
 - GitFlow
 - MVVM/MVP
-- DI (koin/hilt)
+- Dependency injection (koin/hilt)
 - Coroutines
 - Retrofit
 
